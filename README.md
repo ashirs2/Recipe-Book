@@ -1,6 +1,6 @@
-# NgCompleteGuideUpdate
+# Recipe Book App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+Login, SignUp, Add and Update Recipes and a shopping list for the Recipe Book. Developed using Angular and used authentication and database features from Firebase. 
 
 ## Development server
 
