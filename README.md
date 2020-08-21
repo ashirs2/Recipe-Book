@@ -1,6 +1,8 @@
 # Recipe Book App
 
-Login, SignUp, Add and Update Recipes and a shopping list for the Recipe Book. Developed using Angular and used authentication and database features from Firebase. 
+Login, SignUp, Add and Update Recipes and a shopping list. Developed using Angular and used authentication and database features from Firebase. 
+
+Hosted on: https://recipebook-794d8.web.app 
 
 ## Development server
 
